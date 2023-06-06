@@ -1,0 +1,38 @@
+.cabecalho {
+    background-color: white;
+    color: #36b1ff;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.habilidades {
+    font-size: 20px;
+}
+
+.logica {
+    font-size: 20px;
+}
+
+.introdução {
+    font-size: 20px;
+}
+
+.analista {
+    font-size: 20px;
+
+}
+
+body {
+    margin: 300px;
+    margin-top: 10px;
+    border: 10px;
+
+}
+.imgestudo {
+    text-align: center;
+ border: 0;
+ max-width: 100%;
+    height: auto;
+overflow: visible;
+}
